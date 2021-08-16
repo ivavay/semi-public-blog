@@ -1,0 +1,15 @@
+
+<h1>Blog</h1>    
+<br><br> 
+<ul>
+  {% for post in postslist %}
+    <li>
+    
+      <h2>
+        <a href="{{ post.url | url }}">{{ post.data.title }}</a>
+      </h2>
+      <p class="date"><time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time></p>
+    
+    </li>
+  {% endfor %}
+</ul>
