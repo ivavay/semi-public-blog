@@ -43,7 +43,7 @@ a:hover {
     text-decoration: underline;
 }
 img {
-    padding: 1em 16em;
+    width: 50%;
 }
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
