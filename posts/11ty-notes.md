@@ -7,6 +7,6 @@ tags:
 ---
 I pretty much added this reverse % to both the index.njk and tags.njk.
 
-```javascript
+```html
 {% set postslist = collections.posts | reverse %}
 ```
