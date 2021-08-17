@@ -13,3 +13,6 @@
     </li>
   {% endfor %}
 </ul>
+{% for tag in collections.tagsList %}
+    <a href="/tags/{{tag}}">{{tag}}</a>
+{% endfor %}

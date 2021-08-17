@@ -18,9 +18,6 @@
     <div class="title"></div>
     <div class="container">
     {{ content | safe }}
-    {% for tag in collections.tagsList %}
-    <a href="/tags/{{tag}}">{{tag}}</a>
-    {% endfor %}
     
     </div>
 
