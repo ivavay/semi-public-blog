@@ -15,8 +15,4 @@
   {% endfor %}
 </ul>
 
-{% for tag in collections.tagsList -%}
-  {% if tag !== 'posts' %}
-    {{ comma() }} <span class="tags"><a href="/tags/{{tag}}">{{ tag }}</a>({{ collections[tag].length }})</span>
-  {% endif %}
-{%- endfor %}
+
