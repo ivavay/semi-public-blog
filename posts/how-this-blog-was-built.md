@@ -16,6 +16,7 @@ I used [ prism ](https://prismjs.com/) for the syntax highligher. Since styling 
 This below are the links in the body tag at the very bottom.
 
 ```html
- <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.21.0/components/prism-core.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.21.0/components/prism-core.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.21.0/plugins/autoloader/prism-autoloader.min.js"></script>
 ```
+I  added this `reverse %` to both the `index.njk` and `tags.njk` so the posts would show up from most recent to oldest.
