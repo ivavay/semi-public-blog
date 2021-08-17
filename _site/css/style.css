@@ -41,6 +41,13 @@ p {
     font-size: 15px;
     font-weight: normal;
 }
+.extra {
+    padding: 0em 0em 1em 0em;
+    font-size: 15px;
+}
+.extra-top {
+    padding: 2em 0em 0em 0em;
+}
 a {
     text-decoration: none;
     color: black;

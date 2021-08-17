@@ -2,7 +2,7 @@
 layout: layouts/base.njk
 ---
 <h1>{{ title }}</h1>
-<p class="date">{{ date | readableDate }}</p>
+<p class="extra">{{ date | readableDate }}</p>
 {% set comma = joiner() %}
 {% for tag in tags -%}
   {% if tag !== 'posts' %}
@@ -10,7 +10,7 @@ layout: layouts/base.njk
   {% endif %}
 {%- endfor %}
 <br><br>
-<p>{{ content | safe }}</p>
+<p class="extra-top">{{ content | safe }}</p>
 <br><br>
 <img src="{{ featuredImage | url }}" alt="{{ featuredImage }}"></img>
 <br><br><br><br>
