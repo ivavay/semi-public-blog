@@ -9,12 +9,18 @@
         <a class="not-bold" href="{{ post.url | url }}">{{ post.data.title }}</a>
       </h2>
       <p class="date"><time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time></p>
-    
+      {% set comma = joiner() %}
+      {% for tag in tags -%}
+        {% if tag !== 'posts' %}
+          {{ comma() }} <span class="tags"><a href="/tags/{{tag}}">{{ post.data.tag }}</a></span>
+        {% endif %}
+      {%- endfor %}
+       
     </li>
+
   {% endfor %}
 </ul>
 
-{% set comma = joiner() %}
 {% for tag in collections.tagsList -%}
   {% if tag !== 'posts' %}
     {{ comma() }} <span class="tags"><a href="/tags/{{tag}}">{{ tag }}</a>({{ collections[tag].length }})</span>
