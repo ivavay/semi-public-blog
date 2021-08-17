@@ -27,7 +27,7 @@ code {
     white-space: nowrap;
 }
 pre code {
-    white-space: inherit;
+    white-space: pre;
   }
   
 pre {
