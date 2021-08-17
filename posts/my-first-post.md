@@ -13,6 +13,6 @@ When writing “semi-publicly”, which means that it’s available online but t
 
 Learning to write with the right amount of granularity is something I’m still trying to learn.  
 
-Update: Arianna sent me some texts and they’re so encouraging! She said that it’d be interesting to see the patterns in what past and future versions of you choose to write about :) And that my future work can inspired by my past work. Pretty much as a bridge between the past, present, and future. 
+Update: A sent me some texts and they’re so encouraging! She said that it’d be interesting to see the patterns in what past and future versions of you choose to write about :) And that my future work can inspired by my past work. Pretty much as a bridge between the past, present, and future. 
 
 I love the idea of having my own corner of the internet for decades to come.

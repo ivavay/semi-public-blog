@@ -72,6 +72,9 @@ img {
         padding: 8em 4em 1em 4em;
         margin: 0;
     }
+    img {
+        width: 100%;
+    }
     }
 
 
