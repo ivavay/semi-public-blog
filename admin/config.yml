@@ -14,4 +14,9 @@ collections:
       - {label: "Date", name: "date", widget: "date", default: ""}
       - {label: "Post Body", name: "body", widget: "markdown"}
       - {label: "Featured Image", name: "featuredImage", widget: "image", required: false }
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        summary: '{{fields.name}}'
+        field: {label: Name, name: name, widget: string}
 public_folder: "/images/uploads"
