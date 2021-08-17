@@ -2,7 +2,7 @@
 layout: layouts/base.njk
 ---
 <h1>{{ title }}</h1>
-<p class="extra">{{ date | readableDate }}{{ datetime}}</p>
+<p class="extra">{{ date | readableDate }}{{ time }}</p>
 {% set comma = joiner() %}
 {% for tag in tags -%}
   {% if tag !== 'posts' %}
