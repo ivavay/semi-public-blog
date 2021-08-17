@@ -8,5 +8,7 @@ I pretty much just followed an article that also had an accompanying Youtube tut
 I'm trying to see if I can embed a code block bere too. I changed the slug to this and removed the date. 
 
 ```javascript
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.15.0/prism.min.js"></script>
+function preload() {
+    data = loadJSON("taiwan-jobs-income.json");
+}
 ```
