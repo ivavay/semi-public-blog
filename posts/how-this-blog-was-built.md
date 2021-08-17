@@ -7,6 +7,6 @@ I pretty much just followed an article that also had an accompanying Youtube tut
 
 I'm trying to see if I can embed a code block bere too. I changed the slug to this and removed the date. 
 
-```
+```js
 slug: "{{slug}}" 
 ```
