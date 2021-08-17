@@ -9,7 +9,7 @@
         <a class="not-bold" href="{{ post.url | url }}">{{ post.data.title }}</a>
       </h2>
       <p class="date"><time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time></p
-      <span class="tags"><a href="/tags/{{tag}}">{{ tag }}</a></span>
+      <span class="tags"><a href="/tags/{{tag}}">{{ post.data.tag }}</a></span>
     </li>
 
   {% endfor %}
