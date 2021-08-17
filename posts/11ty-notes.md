@@ -6,7 +6,7 @@ tags:
   - dev
 ---
 * I pretty much added this reverse % to both the index.njk and tags.njk.
-* Right now, I still can't include `index.html` code snippet I think.
+* Right now, I still can't include `index.html` code snippet I think. I added some other stuff to CSS so hopefully this works now.
 
   > Do quotes work?
 * I am also trying to see if spotify embed works.
