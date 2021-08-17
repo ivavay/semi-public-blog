@@ -21,8 +21,11 @@ This below are the links in the body tag at the very bottom.
 ```
 
 
+
+
+
 I  added this `reverse %` to both the `index.njk` and `tags.njk` so the posts would show up from most recent to oldest. 
 
 Figuring out how the tag system works took the most time. But I'm glad I got it to work the way I want to - see repo if interested.
 
-I don't think there's anything else I want to add to this blog. I mainly want it to be a word-based blog so having multiple images isn't really a priority. 
+I don't think there's anything else I want to add to this blog. I mainly want it to be a word-based blog so having multiple images isn't really a priority.
