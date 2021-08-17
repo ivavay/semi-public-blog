@@ -17,5 +17,5 @@ permalink: /tags/{{ tag | slug }}/
 ---
 <h2>Tagged “{{ tag }}”</h2>
 
-{% set postslist = collections[ tag ] %}
+{% set postslist = collections[ tag ] | reverse %}
 {% include "postslist.njk" %}
