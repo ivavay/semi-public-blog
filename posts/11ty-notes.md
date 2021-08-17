@@ -5,4 +5,8 @@ date: 2021-08-17T07:00:00.000Z
 tags:
   - dev
 ---
-Hi
+I pretty much added this reverse % to both the index.njk and tags.njk.
+
+```
+{% set postslist = collections.posts | reverse %}
+```
