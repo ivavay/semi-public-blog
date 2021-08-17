@@ -41,6 +41,9 @@ a {
     color: black;
     font-weight: bold;
 }
+.not-bold {
+    font-weight: normal;
+}
 a:hover {
     text-decoration: underline;
 }

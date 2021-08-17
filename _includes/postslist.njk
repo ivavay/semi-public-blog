@@ -5,7 +5,7 @@
   {% for post in postslist %}
     <li>
     
-      <h2>
+      <h2 class="not-bold">
         <a href="{{ post.url | url }}">{{ post.data.title }}</a>
       </h2>
       <p class="date"><time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time></p>
