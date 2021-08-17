@@ -13,5 +13,5 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "date", default: ""}
       - {label: "Post Body", name: "body", widget: "markdown"}
-      - {label: "Featured Image", name: "featuredImage", widget: "image"}
+      - {label: "Featured Image", name: "featuredImage", widget: "image", required: "false" }
 public_folder: "/images/uploads"
