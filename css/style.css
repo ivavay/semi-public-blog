@@ -2,6 +2,11 @@
     background-color: #F0F0F0;
     font-family: 'Inter', sans-serif;
 }
+.tags {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 0.2em 0.5em;
+}
 .container {
     padding: 1em 16em;
 } 

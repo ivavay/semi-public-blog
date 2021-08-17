@@ -2,11 +2,16 @@
     background-color: #F0F0F0;
     font-family: 'Inter', sans-serif;
 }
+.tags {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 0.2em 0.5em;
+}
 .container {
     padding: 1em 16em;
 } 
 .title {
-    padding: 8em 16em 4em 16em;
+    padding: 4em 16em 4em 16em;
     margin: 0;
 }
 ul {
@@ -14,6 +19,7 @@ ul {
 }
 li {
     list-style: none;
+    padding: 0.5em 0em;
 }
 h1 {
     font-size: 42px;
@@ -29,7 +35,7 @@ p {
     font-size: 18px;
     font-weight: normal;
     margin: 0.5em 0em;
-    line-height: 1.5em;
+    line-height: 1.6em;
 }
 .date {
     font-size: 15px;
@@ -38,12 +44,16 @@ p {
 a {
     text-decoration: none;
     color: black;
+    font-weight: bold;
+}
+.not-bold {
+    font-weight: normal;
 }
 a:hover {
     text-decoration: underline;
 }
 img {
-    padding: 1em 16em;
+    width: 70%;
 }
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
@@ -52,11 +62,14 @@ img {
         padding: 1em 2em;
     }
     .title {
-        padding: 8em 2em 1em 2em;
+        padding: 2em 2em 1em 2em;
         margin: 0;
     }
     h1 {
         font-size: 24px;
+    }
+    img {
+        width: 100%;
     }
     }
 /* iPads (portrait and landscape) ----------- */
@@ -66,8 +79,11 @@ img {
         padding: 1em 4em;
     }
     .title {
-        padding: 8em 4em 1em 4em;
+        padding: 4em 4em 1em 4em;
         margin: 0;
+    }
+    img {
+        width: 100%;
     }
     }
 

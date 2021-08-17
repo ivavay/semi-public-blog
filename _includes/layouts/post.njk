@@ -3,7 +3,12 @@ layout: layouts/base.njk
 ---
 <h1>{{ title }}</h1>
 <p class="date">{{ date | readableDate }}</p>
-<p>{{ tags }}</p>
+{% set comma = joiner() %}
+{% for tag in tags -%}
+  {% if tag !== 'posts' %}
+    {{ comma() }} <span class="tags"><a href="/tags/{{tag}}">{{ tag }}</a></span>
+  {% endif %}
+{%- endfor %}
 <br><br>
 <p>{{ content | safe }}</p>
 <br><br>

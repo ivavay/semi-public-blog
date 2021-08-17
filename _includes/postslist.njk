@@ -13,6 +13,10 @@
     </li>
   {% endfor %}
 </ul>
-{% for tag in collections.tagsList %}
-    <a href="/tags/{{tag}}">{{tag}}</a>
-{% endfor %}
+
+{% set comma = joiner() %}
+{% for tag in collections.tagsList -%}
+  {% if tag !== 'posts' %}
+    {{ comma() }} <span class="tags"><a href="/tags/{{tag}}">{{ tag }}</a></span>
+  {% endif %}
+{%- endfor %}
