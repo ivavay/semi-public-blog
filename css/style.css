@@ -18,8 +18,10 @@ ul {
     padding: 0;
 }
 li {
-    list-style: none;
     padding: 0.5em 0em;
+}
+.no-bulletpoint {
+    list-style: none;
 }
 h1 {
     font-size: 42px;
