@@ -1,4 +1,5 @@
 module.exports = function(eleventyConfig) {
+    eleventyConfig.setDataDeepMerge(false);
     eleventyConfig.addPassthroughCopy('images')
     eleventyConfig.addPassthroughCopy('admin')
     eleventyConfig.addPassthroughCopy('css')
