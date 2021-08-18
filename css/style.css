@@ -86,6 +86,10 @@ a {
     font-weight: normal;
     text-decoration: none;
 }
+.bold {
+    text-decoration: none;
+    font-weight: bold;
+}
 a:hover {
     text-decoration: underline;
 }
