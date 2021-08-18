@@ -111,7 +111,7 @@ img {
     }
     img {
         width: 100%;
-        object-fit: none;
+        height: auto;
     }
     }
 /* iPads (portrait and landscape) ----------- */
@@ -126,7 +126,7 @@ img {
     }
     img {
         width: 100%;
-        object-fit: none;
+        height: auto;
     }
     }
 
