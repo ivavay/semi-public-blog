@@ -110,7 +110,12 @@ img {
         font-size: 24px;
     }
     img {
-        width: 100%;
+        width: 600px;
+        height: 400px;
+        object-fit: cover;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
     }
     }
 /* iPads (portrait and landscape) ----------- */
@@ -124,7 +129,12 @@ img {
         margin: 0;
     }
     img {
-        width: 100%;
+        width: 600px;
+        height: 400px;
+        object-fit: cover;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
     }
     }
 
