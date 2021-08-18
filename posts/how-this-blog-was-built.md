@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: How this blog was built
-date: 2021-08-16T07:00:00.000Z
+date: 2021-08-17T07:00:00.000Z
 tags:
   - dev
 ---
@@ -25,8 +25,3 @@ I  added this `reverse %` to both the `index.njk` and `tags.njk` so the posts wo
 Figuring out how the tag system works took the most time. But I'm glad I got it to work the way I want to - see repo if interested.
 
 I don't think there's anything else I want to add to this blog. I mainly want it to be a word-based blog so having multiple images isn't really a priority.
-
-Testing if making number lists work
-
-1. One
-2. Two
