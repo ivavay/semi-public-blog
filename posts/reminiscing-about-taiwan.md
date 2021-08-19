@@ -14,3 +14,7 @@ The creative park @ Songsan was one of the places that I'd constantly go because
 ![](/images/uploads/8cc3db6e-448d-4cf4-a628-8de9538bd1c0.jpg)
 
 There was a pop-up shop for screen printing for a while and I'd always be there to make stuff. Also, the buildings here make good backdrops and cast nice shadows for shooting portraits, so I was able to take a few photos for my cousin. Oh yeah, and there were the Eslite bookstore and the food court inside the park too, which made it so easy to stay there for one good one whole afternoon.
+
+I also remembered riding the bus to NTU a lot to take this coding class there on the weekends. There were so much good street eats around that area and I often stuck around to get food before heading home.
+
+Taiwan, I hope to be back really soon! But until then, stay safe 💞
