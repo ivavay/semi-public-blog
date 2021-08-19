@@ -89,8 +89,9 @@ a {
 .bold {
     text-decoration: none;
     font-weight: bold;
-    padding: 0.5em 0em;
+    
 }
+
 a:hover {
     text-decoration: underline;
 }
