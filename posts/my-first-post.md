@@ -4,8 +4,7 @@ title: "Stream of thoughts "
 description: The first post on the Eleventy + Netlify CMS from scratch blog
 date: 2021-08-16T07:00:00.000Z
 featuredImage: /images/uploads/sunset.jpeg
-tags:
-  - update
+tags: []
 ---
 I’ve always struggled deciding whether or not a piece of writing of mine should be public for everyone to see or private to me. Recently, I’ve came up with a framework for deciding which posts should be “semi-public” and which ones should just be for me to see. 
 
