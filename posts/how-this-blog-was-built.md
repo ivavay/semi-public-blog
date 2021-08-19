@@ -20,7 +20,7 @@ This below are the script tags at the very bottom.
 <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.21.0/plugins/autoloader/prism-autoloader.min.js"></script>
 ```
 
-The posts don't show up from the most recent by default. So I added this `reverse %` to both the `index.njk` and `tags.njk` like this `{% set postslist = collections.posts | reverse %}` so the posts would show up from most recent to oldest. 
+The posts don't show up from the most recent by default. So I added this `reverse %` to both the `index.njk` and `tags.njk` like this ```{% set postslist = collections.posts | reverse %}``` so the posts would show up from most recent to oldest. 
 
 Figuring out how the tag system works took the most time. But I'm glad I got it to work the way I want to, thanks so stackoverflow answers! I also added post counts to the tags by following the code in this [article](https://www.markllobrera.com/posts/eleventy-tag-list-sorting-and-post-count/). 
 
