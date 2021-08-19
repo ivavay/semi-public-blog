@@ -11,10 +11,10 @@ body {
     padding: 0.2em 0.5em;
 }
 .container {
-    padding: 1em 16em;
+    padding: 1em 20em;
 } 
 .title {
-    padding: 4em 16em 4em 16em;
+    padding: 4em 20em 4em 20em;
     margin: 0;
 }
 blockquote {
@@ -80,17 +80,22 @@ p {
 a {
     text-decoration: none;
     color: black;
-    font-weight: bold;
+    text-decoration: underline;
 }
 .not-bold {
     font-weight: normal;
+    text-decoration: none;
+}
+.bold {
+    text-decoration: none;
+    font-weight: bold;
 }
 a:hover {
     text-decoration: underline;
 }
 img {
-    width: 600px;
-    height: 400px;
+    width: 100%;
+    height: auto;
     object-fit: cover;
     display: block;
     margin-left: auto;
