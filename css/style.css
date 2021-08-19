@@ -101,6 +101,9 @@ img {
     margin-left: auto;
     margin-right: auto;
 }
+.padding-tag {
+    padding: 0.5em 0em;
+}
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
     /* Styles */
