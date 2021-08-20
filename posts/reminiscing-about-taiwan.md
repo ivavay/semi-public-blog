@@ -7,7 +7,7 @@ tags:
 ---
 It's been almost 5 months since I've moved back to the Bay from after living in Taiwan for half a year. I really want to move there again towards the end of this year once the covid situation gets better because I can pretty much do what I do there but with so much more freedom. I just feel more creatively charged and inspired there. Everyday mundanity hits so different there compared to here. The city just feels like it has so many hidden gems and interactions waiting to be discovered. 
 
-The creative park @ Songsan was one of the places that I'd constantly go because it had a hidden library that I adored and just overall really good aesthetics every corner you turned.
+The creative park @ Songsan was one of the places that I'd constantly go because it had a [hidden library](https://www.songyancourt.com/en/notjustlibrary/) that I adored and just overall really good aesthetics every corner you turned.
 
 ![](/images/uploads/d169ed3a-df9c-4202-b0e0-abeaa3cbf59a.jpg "the library ")
 
