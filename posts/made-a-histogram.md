@@ -5,7 +5,7 @@ date: 2021-10-30T07:00:00.000Z
 tags:
   - dataviz
 ---
-![](/images/uploads/histogram.gif)
+![](/images/uploads/histogram-2.gif)
 
 Wow, my first taste of animation in D3 🥳! All thanks to `d3.transition`, a pretty easy way to [add animation](https://github.com/d3/d3-transition) to your charts! This interactive histogram was made using the weather from NYC from one point in time. I'll definitely have to read up and play around to practice replicating something like this on my own. 
 
