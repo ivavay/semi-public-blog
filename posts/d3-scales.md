@@ -2,6 +2,8 @@
 layout: layouts/post.njk
 title: "D3 scales "
 date: 2021-10-28T07:00:00.000Z
+tags:
+  - dataviz
 ---
 ![](/images/uploads/screen-shot-2021-10-27-at-4.17.54-pm.jpg)
 
