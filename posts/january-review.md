@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "January review "
+title: "January Review "
 date: 2022-01-28T08:00:00.000Z
 tags:
   - update
@@ -13,7 +13,10 @@ i started to gain some energy for self-learning again yesterday, and so i went t
 
 books i read this month
 
-* the garden city (5 ✨) — a really good reminder about work, rest, and interconnectedness of these with God’s design and intentions for us
-* two trees make a forest (5 ✨) — a travel memoir on taiwan!
-* the alignment problem (4 ✨ ) — about machine learning and human values, mostly story-driven but still too technical to follow along for me
-* all we can save (5 ✨ ) — a collection of essays by women working at the frontline of climate change
+\- the garden city (5 ✨) — a really good reminder about work, rest, and interconnectedness of these with God’s design and intentions for us
+
+\- two trees make a forest (5 ✨) — a travel memoir on taiwan!
+
+\- the alignment problem (4 ✨ ) — about machine learning and human values, mostly story-driven but still too technical to follow along for me
+
+\- all we can save (5 ✨ ) — a collection of essays by women working at the frontline of climate change
