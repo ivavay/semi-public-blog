@@ -20,3 +20,7 @@ books i read this month
 \- the alignment problem (4 ✨ ) — about machine learning and human values, mostly story-driven but still too technical to follow along for me
 
 \- all we can save (5 ✨ ) — a collection of essays by women working at the frontline of climate change
+
+\- the ruthless elimination of hurry (4 ✨) — was a little bit repetitive to the garden city but i enjoyed the conversational style of his writing 
+
+\- ultralearning (4.5 ✨) — a series of tips on self-learning with intensity; however, 4.5 stars because there wasn’t anything mindblowing
